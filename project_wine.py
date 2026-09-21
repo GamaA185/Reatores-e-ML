@@ -1,3 +1,6 @@
+# "#%%" faz o VSC interpretar essa região como uma célula
+# Créditos p/ Gabriel Maia, aquele que me ensinou o que eu sei de Machine Learning hoje (for_code, EQ/UFRJ)
+
 #%%
 import numpy as np
 import matplotlib.pyplot as plt
